@@ -39,5 +39,6 @@ div p {
 }
 
 grid-container {
+  display: grid;
   grid-template-columns: 2;
 }
