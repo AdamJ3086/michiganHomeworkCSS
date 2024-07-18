@@ -45,6 +45,7 @@ div p {
   padding: 10px;
   justify-content: center;
   width; 100%;
+  align-items;
 }
 .grid-item {
   background-color: yellow;
