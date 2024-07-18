@@ -55,6 +55,6 @@ div p {
   text-align: center;
 }
 
-flex-wrap {
+flex-columns {
   aspect-ratio: 2 / 3;
 }
