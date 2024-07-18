@@ -56,10 +56,6 @@ div p {
   text-align: center;
 }
 
-p {
-  padding: 35px;
-}
-
 flex-wrap {
-  justify-content: center;
+  justify-content: space-evenly;
 }
