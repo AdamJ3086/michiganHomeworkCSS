@@ -1,0 +1,36 @@
+body {
+  font-family: cursive, sans-serif;
+  font-size:large;
+}
+
+header {
+  background-color: #ae95ea;
+  font-family: cursive;
+}
+
+nav {
+  background-color: #f99dfb;
+}
+
+main {
+  background-color: lightgrey;
+  font-size: large;
+}
+
+footer {
+  background-color: #a8dca8;
+}
+
+li {
+  display: inline
+  width: block
+}
+
+h1 {
+  font-family: cursive;
+  color: #570557;
+}
+
+p {
+  line-height: 1.5;
+}
