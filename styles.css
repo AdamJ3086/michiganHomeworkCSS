@@ -1,4 +1,4 @@
-nav {
+tnav {
   display: inline-block;
   width: 80%;
   background-color: #f99dfb;
@@ -56,5 +56,5 @@ div p {
 }
 
 flex-wrap {
-  align-items;
+  aspect-ratio: 2 / 3;
 }
