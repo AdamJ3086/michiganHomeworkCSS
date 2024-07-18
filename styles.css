@@ -40,5 +40,5 @@ div p {
 
 .grid-container {
   display: grid;
-  grid-template-columns: 2;
+  grid-template-columns: 20%;
 }
