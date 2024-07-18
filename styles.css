@@ -42,7 +42,7 @@ div p {
   display: grid;
   grid-template-columns: auto auto;
   background-color: white;
-  padding: 100px;
+  padding: 500px;
   justify-content: center;
   width: 100%;
   align-items;
