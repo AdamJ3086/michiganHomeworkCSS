@@ -48,6 +48,7 @@ div p {
   align-items;
 
 }
+
 .grid-item {
   background-color: yellow;
   padding: 20px;
@@ -55,6 +56,7 @@ div p {
   text-align: center;
 }
 
-flex-columns {
-  aspect-ratio: 2 / 3;
+div {
+  display: flex;  
+  flex-wrap: wrap;
 }
