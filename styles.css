@@ -44,8 +44,7 @@ div p {
   background-color: white;
   padding: 100px;
   justify-content: center;
-  width: 500px;
-  height: 500px;
+  max-width: 100% height: auto;
   align-items;
 
 }
@@ -54,6 +53,5 @@ div p {
   padding: 20px;
   font-size: 30px;
   text-align: center;
-  object-fit:cover;
 }
 
