@@ -46,6 +46,7 @@ div p {
   justify-content: center;
   width; 100%;
   align-items;
+  object-fit:cover;
 }
 .grid-item {
   background-color: yellow;
