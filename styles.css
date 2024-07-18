@@ -40,5 +40,6 @@ div p {
 
 .grid-container {
   display: grid;
+  justify-content: space-evenly;
   grid-template-columns: 20%;
 }
