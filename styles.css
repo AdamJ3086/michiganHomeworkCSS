@@ -1,3 +1,9 @@
+nav {
+  dispaly: inline-block;
+  width: 180%;
+  background-color: #f99dfb;
+}
+
 body {
   font-family: cursive, sans-serif;
   font-size:large;
@@ -6,12 +12,6 @@ body {
 header {
   background-color: #ae95ea;
   font-family: cursive;
-}
-
-nav {
-  dispaly: inline-block;
-  width: 180%;
-  background-color: #f99dfb;
 }
 
 main {
