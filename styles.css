@@ -46,12 +46,13 @@ div p {
   justify-content: center;
   width; 100%;
   align-items;
-  object-fit:cover;
+
 }
 .grid-item {
   background-color: yellow;
   padding: 20px;
   font-size: 30px;
   text-align: center;
+  object-fit:cover;
 }
 
