@@ -38,12 +38,6 @@ div p {
   line-height: 10%;
 }
 
-.grid-container {
-  display: grid;
-  justify-content: space-evenly;
-  grid-template-columns: 80px 200px;
-}
-
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -51,6 +45,11 @@ div p {
 }
 
 .column {
-  float: left;
-  width: 50%;
-  padding: 10px;
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
