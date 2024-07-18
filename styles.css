@@ -43,18 +43,12 @@ div p {
   grid-template-columns: auto auto;
   background-color: white;
   padding: 10px;
-  scale: 5;
-  justify: center;
 }
 .grid-item {
   background-color: yellow;
   padding: 20px;
   font-size: 30px;
   text-align: center;
+  justify: center;
 }
 
-.image {
-  height: 100px;
-  width: 100px;
-  image-rendering: auto;
-}
