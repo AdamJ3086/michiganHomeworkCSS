@@ -38,6 +38,6 @@ div p {
   line-height: 10%;
 }
 
-flex-grid {
-  column: 2;
+grid-container {
+  grid-template-columns: 2;
 }
