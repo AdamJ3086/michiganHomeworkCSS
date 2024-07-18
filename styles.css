@@ -9,6 +9,8 @@ header {
 }
 
 nav {
+  dispaly: inline-block;
+  width: 80%;
   background-color: #f99dfb;
 }
 
