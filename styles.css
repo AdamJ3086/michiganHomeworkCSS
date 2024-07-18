@@ -38,7 +38,7 @@ div p {
   line-height: 10%;
 }
 
-grid-container {
+.grid-container {
   display: grid;
   grid-template-columns: 2;
 }
