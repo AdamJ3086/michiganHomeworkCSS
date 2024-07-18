@@ -43,6 +43,7 @@ div p {
   grid-template-columns: auto auto;
   background-color: white;
   padding: 10px;
+  scale: 2;
 }
 .grid-item {
   background-color: yellow;
