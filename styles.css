@@ -56,8 +56,6 @@ div p {
   text-align: center;
 }
 
-img.a {
-  width: 200px;
-  height: 400px;
-  object-fit: cover;
+p {
+  padding: 35px;
 }
