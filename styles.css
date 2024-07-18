@@ -40,7 +40,7 @@ div p {
 
 .grid-container {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: max max;
   background-color: white;
   padding: 100px;
   justify-content: center;
